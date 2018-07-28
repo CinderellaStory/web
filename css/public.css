@@ -1,0 +1,29 @@
+.header {
+    background: #40E0D0;
+    padding: 18px;
+}
+
+.header ul {
+    align-items: center;
+    display: flex;
+}
+
+.header ul li {
+    float: left;
+    align-content: center;
+    flex: 1;
+}
+
+.header ul li a {
+    color: #fff;
+}
+
+.container {
+    min-height: 900px;
+}
+
+.footer {
+    background: #40E0D0;
+    padding: 18px;
+    color: #fff;
+}
