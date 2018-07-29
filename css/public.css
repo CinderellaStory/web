@@ -14,12 +14,24 @@
     flex: 1;
 }
 
+.header ul li:hover p {
+    color: red;
+}
+
+.header ul li.active {}
+
+.header ul li.active a {
+    color: #000
+}
+
 .header ul li a {
     color: #fff;
+    font-size: 15px;
 }
 
 .container {
-    min-height: 900px;
+    min-height: 820px;
+    margin-top: 50px;
 }
 
 .footer {

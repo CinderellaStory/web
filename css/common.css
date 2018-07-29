@@ -20,3 +20,15 @@ body {
     margin: 0 auto;
     text-align: center;
 }
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.ov {
+    overflow: hidden;
+}
